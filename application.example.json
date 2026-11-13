@@ -1,0 +1,12 @@
+{
+  "name": "Your Name",
+  "email": "you@example.com",
+  "resume": "https://example.com/resume.pdf",
+  "location": "City, State, Country",
+  "linkedin": "https://www.linkedin.com/in/your-profile",
+  "codeLink": "https://github.com/your-name/howgood-apply",
+  "yearsPython": 0,
+  "yearsDjango": 0,
+  "repos": "https://github.com/your-name",
+  "notes": "Anything else you would like HowGood to know."
+}
